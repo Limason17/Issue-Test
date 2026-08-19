@@ -77,7 +77,8 @@
 <style scoped>
 section {
   width: min(100%, 1000px);
-  padding: 32px 20px;
+  margin: 0 auto;
+  padding: 40px 20px;
 }
 
 h1 {
@@ -87,10 +88,11 @@ h1 {
 
 article {
   margin-bottom: 20px;
-  padding: 20px;
+  padding: 24px;
   border: 1px solid #d6dbe1;
-  border-radius: 8px;
+  border-radius: 10px;
   background-color: #ffffff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
 }
 
 h2 {
