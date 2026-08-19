@@ -1,7 +1,7 @@
 <script setup>
-import Startpage from './components/Startpage.vue'
+import PersCard from './components/PersCard.vue'
 </script>
 
 <template>
-  <Startpage />
+  <PersCard />
 </template>
