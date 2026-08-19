@@ -20,6 +20,16 @@ const description = ref('Dies ist die Startseite unseres GitHub-Projekts.')
   align-items: center;
   min-height: 80vh;
   text-align: center;
-  padding: 20px;
+  padding: 40px 20px;
+}
+
+.startpage h1 {
+  font-size: 2.5rem;
+  margin-bottom: 16px;
+}
+
+.startpage p {
+  font-size: 1.1rem;
+  color: #64748b;
 }
 </style>

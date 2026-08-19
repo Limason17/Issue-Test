@@ -85,4 +85,17 @@ function selectTab(tab) {
   font-weight: bold;
   border-color: #213547;
 }
+
+.navbar {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+.navbar-nav button:hover {
+  background-color: #f1f5f9;
+}
+
+.navbar-nav button.active {
+  background-color: #213547;
+  color: white;
+}
 </style>
