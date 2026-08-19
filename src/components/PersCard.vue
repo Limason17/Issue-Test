@@ -37,20 +37,20 @@
     </article>
 
     <article>
-      <h2>Name</h2>
-      <p><strong>Rolle:</strong> Rolle</p>
+      <h2>Liam</h2>
+      <p><strong>Rolle:</strong> Backend Developer</p>
 
       <h3>Stärken</h3>
       <ul>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>Java und Backend-Logik</li>
+        <li>APIs entwickeln</li>
+        <li>Fehler finden und lösen</li>
       </ul>
 
       <h3>Schwächen</h3>
       <ul>
-        <li></li>
-        <li></li>
+        <li>Noch nicht viel Erfahrung mit grösseren Backend-Systemen</li>
+        <li>Dokumentation könnte konsequenter sein</li>
       </ul>
     </article>
 
