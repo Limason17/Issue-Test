@@ -4,7 +4,7 @@
 
     <article>
       <h2>Name</h2>
-      <p><strong>Rolle:</strong></p>
+      <p><strong>Rolle:</strong> Rolle</p>
 
       <h3>Stärken</h3>
       <ul>
@@ -16,6 +16,40 @@
       <h3>Schwächen</h3>
       <ul>
         <li></li>
+        <li></li>
+      </ul>
+    </article>
+
+    <article>
+      <h2>Fabio Erculiani</h2>
+      <p><strong>Rolle:</strong> Database Manager</p>
+
+      <h3>Stärken</h3>
+      <ul>
+        <li>SQL/Datenbanken managen</li>
+        <li>JS/Webseitenlogik</li>
+        <li>HTML/Struktur</li>
+      </ul>
+
+      <h3>Schwächen</h3>
+      <ul>
+        <li>CSS/Gestaltung</li>
+      </ul>
+    </article>
+
+    <article>
+      <h2>Name</h2>
+      <p><strong>Rolle:</strong> Rolle</p>
+
+      <h3>Stärken</h3>
+      <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+      </ul>
+
+      <h3>Schwächen</h3>
+      <ul>
         <li></li>
         <li></li>
       </ul>
@@ -23,7 +57,7 @@
 
     <article>
       <h2>Name</h2>
-      <p><strong>Rolle:</strong></p>
+      <p><strong>Rolle:</strong> Rolle</p>
 
       <h3>Stärken</h3>
       <ul>
@@ -34,45 +68,6 @@
 
       <h3>Schwächen</h3>
       <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-      </ul>
-    </article>
-
-    <article>
-      <h2>Name</h2>
-      <p><strong>Rolle:</strong></p>
-
-      <h3>Stärken</h3>
-      <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-      </ul>
-
-      <h3>Schwächen</h3>
-      <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-      </ul>
-    </article>
-
-    <article>
-      <h2>Name</h2>
-      <p><strong>Rolle:</strong></p>
-
-      <h3>Stärken</h3>
-      <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-      </ul>
-
-      <h3>Schwächen</h3>
-      <ul>
-        <li></li>
         <li></li>
         <li></li>
       </ul>
