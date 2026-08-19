@@ -3,20 +3,19 @@
     <h1>Personenkarten</h1>
 
     <article>
-      <h2>Name</h2>
-      <p><strong>Rolle:</strong> Rolle</p>
+      <h2>Dmytro Yermakov</h2>
+      <p><strong>Rolle:</strong> Frontend Developer</p>
 
       <h3>Stärken</h3>
       <ul>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>Logisches Denken</li>
+        <li>Vue.js / Komponentenentwicklung</li>
+        <li>JS / Frontend-Logik</li>
       </ul>
 
       <h3>Schwächen</h3>
       <ul>
-        <li></li>
-        <li></li>
+        <li>SQL / Datenbanken</li>
       </ul>
     </article>
 
