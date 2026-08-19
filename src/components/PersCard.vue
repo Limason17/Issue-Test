@@ -55,20 +55,20 @@
     </article>
 
     <article>
-      <h2>Name</h2>
-      <p><strong>Rolle:</strong> Rolle</p>
+      <h2>Boris Tomovski</h2>
+      <p><strong>Rolle:</strong> Projektleiter/Frontend</p>
 
       <h3>Stärken</h3>
       <ul>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>Schnelles Debugging & Problemlösung</li>
+        <li>Frontend Design</li>
+        <li>Projektleitung</li>
       </ul>
 
       <h3>Schwächen</h3>
       <ul>
-        <li></li>
-        <li></li>
+        <li>Over Engineering</li>
+        <li>Wenig Erfahrung mit Backend</li>
       </ul>
     </article>
   </section>
