@@ -2,7 +2,7 @@
 import { ref } from 'vue'
 import Navigation from './components/Navigation.vue'
 import Startpage from './components/Startpage.vue'
-import Personenkarte from './components/Personenkarte.vue'
+import Personenkarte from './components/PersCard.vue'
 
 const currentTab = ref('start')
 </script>
